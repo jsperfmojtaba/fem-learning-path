@@ -13,6 +13,7 @@
 - [x] Rethinking Asynchronous JavaScript
 - [x] Organizing JavaScript Functionality
 - [x] Advanced SVG Animation
+- [x] React Native (feat. Redux)
 
 ## Todo
 - [ ] Creating an Open Source JavaScript Library on Github
@@ -49,7 +50,6 @@
 - [ ] Data Structures and Algorithms in JavaScript
 - [ ] Website Accessibility
 - [ ] Elm
-- [ ] React Native (feat. Redux)
 - [ ] Mastering Chrome Developer Tools
 - [ ] Motion Design with CSS
 - [ ] Four Semesters of Computer Science in 5 Hours
