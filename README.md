@@ -14,9 +14,9 @@
 - [x] Organizing JavaScript Functionality
 - [x] Advanced SVG Animation
 - [x] React Native (feat. Redux)
+- [x] Creating an Open Source JavaScript Library on Github
 
 ## Todo
-- [ ] Creating an Open Source JavaScript Library on Github
 - [ ] Introduction to Bash, VIM & Regex
 - [ ] Advanced State Management in React (feat. Redux and MobX)
 - [ ] Progressive Web Applications and Offline
