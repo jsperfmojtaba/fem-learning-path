@@ -12,6 +12,7 @@
 - [x] "Build Cross-Platform Desktop Apps with Electron"
 - [x] "Rethinking Asynchronous JavaScript"
 - [x] "Organizing JavaScript Functionality"
+- [x] "Advanced SVG Animation"
 
 ## Todo
 - [ ] "Creating an Open Source JavaScript Library on Github"
@@ -53,7 +54,6 @@
 - [ ] "Motion Design with CSS"
 - [ ] "Four Semesters of Computer Science in 5 Hours"
 - [ ] "The Good Parts of JavaScript and the Web"
-- [ ] "Advanced SVG Animation"
 - [ ] "Asynchronous Programming in JavaScript (with Rx.js Observables)"
 - [ ] "Introduction to JavaScript Programming"
 - [ ] "Responsive HTML Email Design"
